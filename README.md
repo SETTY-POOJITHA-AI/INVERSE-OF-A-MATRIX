@@ -20,13 +20,13 @@ End of the program.
 ## Program:
 ~~~
 import numpy as np
-A=np.array([[1,0,3],[-1,2,-2],[2,3,-1]]) 
+A=np.array([[2,1,1],[1,1,1],[1,-1,2]]) 
 s=np.linalg.inv(A)
 print(s)
 ~~~
 
 ## Output:
-![GitHub Logo](inv.png)
+![GitHub Logo](inverse.jpg)
 
 ## Result:
 Thus the inverse of given matrix is successfully solved using python program
